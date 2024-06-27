@@ -9,5 +9,5 @@ func NewDep() *Dep {
 }
 
 func (d *Dep) Version() {
-	fmt.Println("Hello, I am v1.0.0")
+	fmt.Println("Hello, I am v1.1.0")
 }
